@@ -9,13 +9,11 @@ Spotify Database Schema Design Case Study
 
 4. Top Features of Spotify
 
-5. Schema Design Based on Top Features
+5. Schema Description
 
-6. Schema Description
+6. Relationships
 
-7. Relationships
+7. ER Diagram
 
-8. ER Diagram
-
-9. Conclusion
+8. Conclusion
 
