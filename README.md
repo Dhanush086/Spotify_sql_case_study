@@ -17,7 +17,5 @@ Spotify Database Schema Design Case Study
 
 8. ER Diagram
 
-9. Presentation of Findings
-
-10. Conclusion
+9. Conclusion
 
