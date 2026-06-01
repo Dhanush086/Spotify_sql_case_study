@@ -1,21 +1,21 @@
-# Spotify_sql_case_study
-Spotify Database Schema Design Case Study
+# Spotify SQL Case Study
 
-1. Company Overview
+## Company Overview
 
-2. Product Dissection and Real-World Problems Solved
+## Product Dissection and Real-World Problems Solved
 
-3. Case Study: Real-World Problems and Spotify's Innovative Solutions
+## Case Study: Real-World Problems and Spotify's Innovative Solutions
 
-4. Top Features of Spotify
+## Top Features of Spotify
 
-5. Schema Description
+## Schema Description
 
-6. Relationships
+## Relationships
 
-7. ER Diagram
+## ER Diagram
 
-8. Conclusion
+## Conclusion
 
-# Project Summary
-This project presents a case study on Spotify's database schema design and ER modeling. It analyzes the platform's core features, real-world problems solved, key entities, relationships, and database structure that support music streaming, playlist management, and personalized recommendations
+## Project Summary
+
+This project presents a case study on Spotify's database schema design and Entity-Relationship (ER) modeling. It examines the platform's core features, the real-world problems it solves, and the database structure that supports its functionality. The study includes key entities, relationships, and an ER diagram that demonstrate how Spotify manages users, songs, artists, albums, playlists, likes, follows, and streaming activities. The project highlights the role of relational database design in enabling personalized recommendations, efficient content management, and a seamless music streaming experience.
