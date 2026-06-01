@@ -13,7 +13,7 @@ Spotify Database Schema Design Case Study
 
 6. Schema Description
 
-7. Rationale Behind the Design
+7. Relationships
 
 8. ER Diagram
 
