@@ -17,3 +17,5 @@ Spotify Database Schema Design Case Study
 
 8. Conclusion
 
+# Project Summary
+This project presents a case study on Spotify's database schema design and ER modeling. It analyzes the platform's core features, real-world problems solved, key entities, relationships, and database structure that support music streaming, playlist management, and personalized recommendations
